@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'SolaimanL';
+src: url('https://rawcdn.githack.com/ai1/Fonts/0183133933a02c6d91dbfd1da7c1ca213afbd0c5/SolaimanLipi.eot');
+src: url('https://rawcdn.githack.com/ai1/Fonts/0183133933a02c6d91dbfd1da7c1ca213afbd0c5/SolaimanLipi.eot?#iefix') format('embedded-opentype'),
+url('https://rawcdn.githack.com/ai1/Fonts/0183133933a02c6d91dbfd1da7c1ca213afbd0c5/SolaimanLipi.woff') format('woff'),
+url('https://rawcdn.githack.com/ai1/Fonts/0183133933a02c6d91dbfd1da7c1ca213afbd0c5/SolaimanLipi.ttf') format('truetype'),
+url('https://rawcdn.githack.com/ai1/Fonts/0183133933a02c6d91dbfd1da7c1ca213afbd0c5/SolaimanLipi.svg#SolaimanL') format('svg');
+font-weight: normal;
+font-style: normal;
+}
