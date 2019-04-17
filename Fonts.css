@@ -30,3 +30,47 @@ url('https://rawcdn.githack.com/ai1/Fonts/8492f4c67158da4f4e35c809ff48ff35bed72a
 font-weight: normal;
 font-style: normal;
 }
+
+@font-face {
+font-family: 'PTSans';
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTS55F.eot');
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTS55F.eot?#iefix') format('embedded-opentype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTSans-Regular.woff') format('woff'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTS55F.ttf') format('truetype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTSans-Regular.svg#PTSans') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'PTSansNarrow';
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PT_Sans-Narrow.eot');
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PT_Sans-Narrow.eot?#iefix') format('embedded-opentype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTSans-Narrow.woff') format('woff'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PT_Sans-Narrow.ttf') format('truetype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/PTSans-Narrow.svg#PTSansNarrow') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Raleway';
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Raleway-Regular.eot');
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Raleway-Regular.eot?#iefix') format('embedded-opentype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Raleway-Regular.woff') format('woff'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Raleway-Regular.ttf') format('truetype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Raleway-Regular.svg#Raleway') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Sansation';
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Sansation.eot');
+src: url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Sansation.eot?#iefix') format('embedded-opentype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/SansationRegular.woff') format('woff'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/Sansation.ttf') format('truetype'),
+url('https://rawcdn.githack.com/ai1/Fonts/8adff5fa1cd8ffbac671cf6cc6844e957bb3ba56/SansationRegular.svg#Sansation') format('svg');
+font-weight: normal;
+font-style: normal;
+}
